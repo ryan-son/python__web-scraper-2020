@@ -1,12 +1,11 @@
 [tool.poetry]
-name = "superscrapper"
+name = "python-course-web-scraper"
 version = "0.1.0"
 description = ""
 authors = ["Your Name <you@example.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-Flask = "^1.1.2"
 requests = "^2.24.0"
 beautifulsoup4 = "^4.9.1"
 
